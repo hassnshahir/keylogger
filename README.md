@@ -36,5 +36,5 @@ I would recommend converting both files to a .exe file. Whenever you want to run
   2: Run the startup_keylogger_0.3.exe 
 BUT MAKE SURE THAT THEY ARE BOTH IN THE SAME FOLDER!
 
-## In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking any risks!
+### "In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking any risks!" - Mark Zuckerberg.
 
