@@ -5,10 +5,11 @@
 Summary: Capturing keystrokes and sending them to the email!
 
 ## Importing the Libraries
-This script works first by importing the necessary libraries like "smtplib" for sending emails, "threading" for running the keylogger, "time" for the time interval of sending the logs, "email.mime.text" for creating email messages, and "pynput.keyboard" for capturing keystrokes.
+This script works first by importing the necessary libraries like 'smtplib' for sending emails, "threading" for running the keylogger, "time" for the time interval of sending the logs, "email.mime.text" for creating email messages, and "pynput.keyboard" for capturing keystrokes.
 
 ## Setting the Email for Sending the Logs
 In this part, we will set up the username and the password of the SMTP server that we are using! I would recommend to use MAILTRAP, because it is easy and free to use! 
+
 ![image](https://github.com/hassnshahir/keylogger/assets/133601250/ac0a2ef0-7d01-4830-b6b7-6004c2588123)
 
 ## "KeyLogger" Class
