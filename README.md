@@ -2,7 +2,7 @@
 #### It is just for educational purposes only. If you understand how this kind of attack works, you can better protect yourself from it! YOU ARE RESPONSIBLE FOR YOUR ACTIONS!
 
 # 1: logger_0.3.pyw
-### Capturing keystrokes and sending them to the email!
+Summary: Capturing keystrokes and sending them to the email!
 
 ## Importing the Libraries
 This script works first by importing the necessary libraries like "smtplib" for sending emails, "threading" for running the keylogger, "time" for the time interval of sending the logs, "email.mime.text" for creating email messages, and "pynput.keyboard" for capturing keystrokes.
