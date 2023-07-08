@@ -1,2 +1,3 @@
 # keylogger
-A keylogger that captures keystrokes and sends them to an SMTP server. It restarts itself automatically after the system shutdown!
+# It is just for educational purposes only. If you understand how this kind of attack works, you can better protect yourself from it! YOU ARE RESPONSIBLE FOR YOUR ACTIONS!
+
