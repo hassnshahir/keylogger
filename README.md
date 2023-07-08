@@ -1,5 +1,5 @@
 # Automatic Keylogger Upon Machine Startup
-#### It is just for educational purposes only. If you understand how this kind of attack works, you can better protect yourself from it! YOU ARE RESPONSIBLE FOR YOUR ACTIONS!
+#### It is just for educational purposes only. It is only to understand how this kind of attack works, so you can better protect yourself from it! YOU ARE RESPONSIBLE FOR YOUR ACTIONS!
 
 
 # 1: logger_0.3.pyw
