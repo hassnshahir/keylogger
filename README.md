@@ -19,7 +19,7 @@ Summary: Capturing keystrokes and sending them to the email!
 * ### "KeyLogger" Class:
   The defined "KeyLogger" class uses time interval, and email address as parameters to use during initialization! The "appendlog" captures the keystrokes. The "save_data" converts a key to a string, it handles special keys    separately. The "send_mail" carries the logs via email. I have used MAILTRAP as an SMTP provider, but you can replace it with your own SMTP provider. The "report" works by the time interval which is fixed by the             "SEND_REPORT_EVERY" variable. The "run" sets up a keyboard listener. Finally the "start" is used for starting the keylogger in a separate thread. 
 
-## This will work properly but to make it run itself after every restart of the machine, another script should be created!
+## This will work properly but to make it run itself after every restart of the machine, another script should be created! [startup_keylogger_0.3.pyw]
 First of all, if we only want to use this script in a machine without installing any dependencies. it is important to convert it to an executable file! So we will make the keylogger_0.3.pyw to a .exe file by the command "pyinstaller --onefile keylogger_0.3.pyw" Make sure to open the terminal in the same folder as the keylogger_0.3.pyw is located. Then we will create a script that runs the .exe file by startup. 
 
 
